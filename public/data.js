@@ -1,4 +1,4 @@
-const faq = [
+const faqs = [
     {
         title : "What is JSX and why is it used in React?",
         ans : "JSX (JavaScript XML) is a syntax extension that lets you write HTML inside JavaScript."
@@ -10,5 +10,5 @@ const faq = [
 ]
 
 export {
-    faq
+    faqs,
 }
